@@ -1,5 +1,5 @@
 c = int(input("Cart Total : ")) #c=Cart Total
-l = input("Loyalty Status Gold/Silver/Bronze : ")
+l = input("Loyalty Status Gold/Silver/Bronze : ") #l=loyalty badge
 
 if(c >= 5000):
     print ("Premium Order")
